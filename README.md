@@ -16,8 +16,8 @@ You will also see any lint errors in the console.
 
 ### `npm server`
 
-Runs the app in an json server on default port 8000.
-The backend was designed with the REST API called json-server which makes easier to manipulate the http request.
+Runs the app in an json server on default port 8000.\
+The backend was designed with the REST API called json-server which makes easier to manipulate the http request.\
 Open [http://localhost:5000](http://localhost:5000) to view the server-side in the browser.
 
 ### `npm test`
